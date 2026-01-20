@@ -866,3 +866,60 @@ y_pred = best_svm.predict(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
 print("accuracy: ", accuracy)
+
+#random search
+from sklearn.datasets import load_iris
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+
+# Step 1: Define The Parameter Space Or Distribution
+
+# Define hyperparameter distributions
+param_dist = {
+    'n_estimators': [int(x) for x in np.linspace(start=200, stop=2000, num=10)],  # Number of trees
+    'max_features': ['auto', 'sqrt'],  # Number of features to consider for best split
+    'max_depth': [int(x) for x in np.linspace(10, 110, num=11)],  # Maximum depth of the trees
+    'min_samples_split': [2, 5, 10],  # Minimum samples required to split a node
+    'min_samples_leaf': [1, 2, 4],  # Minimum samples required at each leaf node
+    'bootstrap': [True, False]  # Whether bootstrap samples are used when building trees
+}
+
+# Step 2: Prime The Random Search Object
+
+from sklearn.model_selection import RandomizedSearchCV
+
+# Create a Random Forest Classifier
+rf_classifier = RandomForestClassifier()
+
+# Create the RandomizedSearchCV object
+random_search = RandomizedSearchCV(
+    estimator=rf_classifier,
+    param_distributions=param_dist,
+    n_iter=100,  # Number of parameter settings that are sampled
+    cv=5,  # Number of cross-validation folds
+    verbose=2,
+    scoring="accuracy",
+    random_state=42,
+    n_jobs=-1  # Use all available processors
+)
+
+# Step 3: Fit The Data & Extract The Results
+
+data = load_iris()
+X = data.data
+y = data.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Fit the RandomizedSearchCV instance
+random_search.fit(X_train, y_train)
+
+# Retrieve the best parameters found by RandomizedSearchCV
+best_params = random_search.best_params_
+print("Best Parameters:", best_params)
+
+# Evaluate the model with best parameters on the test set
+best_estimator = random_search.best_estimator_
+test_accuracy = best_estimator.score(X_test, y_test)
+print("Test Accuracy with Best Parameters:", test_accuracy)
+
