@@ -1,0 +1,21 @@
+horario,dia_semana,tipo_consulta,pacientes_na_fila_antes,pacientes_agendados_no_mesmo_horario,tempo_medio_consulta_tipo_min,medico_habito_atraso,horario_pico,tempo_de_espera_min
+08:00,quarta-feira,Ortopedista,11,2,35,9,sim,417.8084761904761
+16:15,sexta-feira,Ginecologista,7,4,30,7,não,200.37809523809523
+18:15,quinta-feira,Cardiologista,7,1,40,16,não,253.55669047619048
+15:15,quarta-feira,Cardiologista,6,0,40,14,sim,235.74294047619048
+09:15,quinta-feira,Clínico Geral,12,0,20,12,sim,280.5448214285714
+15:30,segunda-feira,Dermatologista,6,1,20,11,sim,147.11365476190474
+14:00,quarta-feira,Pediatra,13,1,25,9,sim,331.2135595238095
+10:30,segunda-feira,Clínico Geral,8,3,20,9,não,245.80742857142866
+13:00,terça-feira,Dermatologista,8,1,20,10,não,245.46850000000003
+14:30,sexta-feira,Pediatra,16,2,25,6,sim,456.2325595238095
+10:00,quinta-feira,Clínico Geral,4,0,20,12,não,115.97896825396825
+13:45,quarta-feira,Neurologista,6,2,45,22,não,241.7370357142857
+13:45,terça-feira,Pediatra,7,1,25,11,não,173.08027380952387
+17:15,segunda-feira,Ortopedista,7,0,35,11,não,228.16757142857148
+08:30,segunda-feira,Ortopedista,8,0,35,14,sim,361.24067063492055
+09:30,quarta-feira,Clínico Geral,19,1,20,7,sim,428.1607738095239
+08:30,quarta-feira,Clínico Geral,13,0,20,0,sim,335.07855952380953
+09:45,sexta-feira,Dermatologista,15,2,20,12,sim,372.07039285714296
+10:45,quarta-feira,Dermatologista,7,2,20,7,não,160.28528679653675
+14:15,segunda-feira,Clínico Geral,14,3,20,4,sim,322.49955952380964

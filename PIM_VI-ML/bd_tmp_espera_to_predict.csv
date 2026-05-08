@@ -1,0 +1,21 @@
+horario,dia_semana,tipo_consulta,pacientes_na_fila_antes,pacientes_agendados_no_mesmo_horario,tempo_medio_consulta_tipo_min,medico_habito_atraso,horario_pico
+14:30,quinta-feira,Oftalmologista,12,1,25,7,sim
+14:45,sexta-feira,Cardiologista,12,4,40,17,sim
+08:00,segunda-feira,Pediatra,10,4,25,10,sim
+14:00,quarta-feira,Pediatra,9,1,25,10,sim
+11:45,quarta-feira,Clínico Geral,3,0,20,8,não
+09:45,terça-feira,Cardiologista,1,0,40,19,sim
+09:15,quarta-feira,Ortopedista,6,1,35,0,sim
+13:15,segunda-feira,Clínico Geral,4,0,20,10,não
+08:45,quinta-feira,Pediatra,18,1,25,14,sim
+09:45,quarta-feira,Clínico Geral,7,2,20,6,sim
+13:15,segunda-feira,Pediatra,6,1,25,12,não
+16:00,quinta-feira,Pediatra,6,0,25,2,não
+10:00,segunda-feira,Clínico Geral,3,2,20,9,não
+09:15,terça-feira,Clínico Geral,11,1,20,16,sim
+16:00,segunda-feira,Ginecologista,6,2,30,9,não
+18:45,sexta-feira,Clínico Geral,10,4,20,4,não
+09:45,sábado,Ginecologista,9,0,30,7,sim
+15:30,segunda-feira,Dermatologista,8,1,20,19,sim
+15:45,terça-feira,Cardiologista,16,1,40,6,sim
+08:45,sexta-feira,Pediatra,15,2,25,4,sim
