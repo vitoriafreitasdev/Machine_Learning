@@ -1,0 +1,51 @@
+ML-PIMVI
+
+## O que eu irei construir
+
+Construir um modelo preditivo para previsão de tempo estimado de espera (base de dados: horário, dia da semana, tipo de consulta, tempo de espera) ==> usar Regressão Linear 
+Construir um modelo preditivo para previsão de falta a consultas (no-show) (base de dados: nome, sexo, idade, consulta, histórico de atrasos (baixo, médio, elevado)) ==> Random Forest
+realizar ajuste de hiperparâmetros (Grid Search ou Random Search)
+
+## O que é pra ser feito em Machile Learning 
+
+-construir um conjunto de análises e modelos preditivos a partir de dados gerados ou
+simulados pelo sistema de prontuário e fila
+
+-começando pela definição clara do problema
+de aprendizado a ser tratado, como previsão de tempo estimado de espera, previsão de
+falta a consultas (no-show) ou classificação do risco de superlotação da clínica em
+determinados horários.
+
+-será montado um conjunto de dados consolidado,
+em formato aberto como CSV, a partir do modelo relacional e/ou do módulo NoSQL,
+contendo variáveis de entrada, por exemplo horário, dia da semana, tipo de consulta,
+histórico de atrasos e características básicas do paciente, e uma variável alvo adequada
+ao problema escolhido.
+
+-realizar o pré-processamento dos dados,
+incluindo limpeza, tratamento de valores ausentes, codificação de variáveis categóricas
+e normalização ou padronização quando pertinente, para então conduzir uma análise
+exploratória de dados com gráficos e estatísticas descritivas que permitam investigar
+padrões de demanda, tempos de espera, distribuição de faltas e correlações entre variáveis.
+
+-serão treinados pelo menos dois algoritmos de aprendizado
+como Regressão Logística e Random Forest para classificação de noshow ou Regressão Linear 
+e Gradient Boosting para estimativa de tempo de espera, com
+breve justificativa da escolha, e os modelos serão avaliados com métricas adequadas
+ao tipo de problema, como acurácia, precisão, recall, F1-score, RMSE ou curva ROC/
+AUC, permitindo a comparação dos resultados e a seleção de um modelo principal para
+o cenário da clínica.
+
+-realizado um pequeno experimento de ajuste de
+hiperparâmetros, por exemplo, com Grid Search ou Random Search, registrando os
+impactos nas métricas de desempenho e discutindo ganhos e limitações, e todo o código
+será organizado em um caderno Jupyter, ou ferramenta equivalente, contendo todas as
+etapas do pipeline, desde a carga de dados, pré-processamento, análise exploratória
+e modelagem até a avaliação e o salvamento dos resultados.
+
+==> Entregáveis principais, serão fornecidos o conjunto de dados consolidado
+em formato aberto, acompanhado de dicionário de dados, o caderno Jupyter com
+o pipeline completo de análise e modelagem e um relatório técnico de 4 a 6 páginas,
+descrevendo o contexto, a construção do dataset, as técnicas aplicadas, os resultados
+obtidos, as limitações e as possibilidades de evolução dos modelos no contexto das
+clínicas populares.

@@ -1,0 +1,101 @@
+horario,dia_semana,tipo_consulta,pacientes_na_fila_antes,pacientes_agendados_no_mesmo_horario,tempo_medio_consulta_tipo_min,medico_habito_atraso,horario_pico,tempo_de_espera_min
+08:00,segunda-feira,Ortopedista,10.0,0.0,35.0,15.0,sim,389
+08:00,segunda-feira,Cardiologista,16.0,2.0,40.0,21.0,,682
+08:00,quarta-feira,Clínico Geral,4.0,1.0,20.0,15.0,sim,95
+08:15,sexta-feira,Clínico Geral,5.0,,20.0,11.0,sim,108
+08:15,quarta-feira,Nutricionista,11.0,4.0,35.0,,sim,396
+08:15,terça-feira,Dermatologista,13.0,1.0,20.0,4.0,sim,257
+08:30,quinta-feira,Nutricionista,9.0,3.0,,3.0,sim,323
+08:30,quarta-feira,Clínico Geral,,0.0,20.0,10.0,sim,406
+08:45,segunda-feira,Clínico Geral,11.0,1.0,20.0,14.0,sim,250
+08:45,terça-feira,Clínico Geral,14.0,2.0,20.0,3.0,sim,289
+08:45,quarta-feira,Ortopedista,16.0,1.0,35.0,11.0,sim,573
+08:45,sexta-feira,Dermatologista,1.0,2.0,20.0,2.0,sim,42
+08:45,quinta-feira,Clínico Geral,6.0,4.0,20.0,,sim,129
+09:00,quinta-feira,Clínico Geral,7.0,,20.0,10.0,sim,155
+09:00,sexta-feira,Ortopedista,17.0,1.0,35.0,5.0,sim,605
+09:00,quarta-feira,Ortopedista,16.0,4.0,35.0,5.0,sim,576
+09:00,terça-feira,Clínico Geral,7.0,0.0,20.0,,sim,169
+09:00,quinta-feira,Psicólogo,12.0,0.0,50.0,8.0,sim,607
+09:15,sexta-feira,Clínico Geral,16.0,1.0,20.0,0.0,sim,348
+09:15,sexta-feira,Cardiologista,8.0,2.0,40.0,16.0,sim,312
+09:15,quarta-feira,Clínico Geral,12.0,0.0,20.0,,sim,254
+09:30,segunda-feira,Clínico Geral,2.0,2.0,20.0,14.0,sim,67
+09:30,quarta-feira,Cardiologista,15.0,3.0,40.0,,sim,593
+09:30,sexta-feira,Clínico Geral,10.0,3.0,20.0,7.0,sim,205
+09:45,segunda-feira,Ginecologista,11.0,2.0,30.0,,sim,349
+09:45,terça-feira,Ortopedista,5.0,2.0,35.0,,sim,208
+09:45,terça-feira,Clínico Geral,20.0,0.0,20.0,14.0,sim,408
+09:45,quinta-feira,Clínico Geral,12.0,3.0,20.0,7.0,sim,253
+09:45,segunda-feira,Psicólogo,9.0,2.0,50.0,3.0,sim,438
+10:00,terça-feira,Ortopedista,6.0,1.0,35.0,14.0,não,226
+10:15,quarta-feira,Nutricionista,9.0,0.0,35.0,10.0,não,321
+10:15,quinta-feira,Clínico Geral,8.0,0.0,20.0,,não,168
+10:15,,Ortopedista,4.0,4.0,35.0,6.0,não,145
+10:30,segunda-feira,Clínico Geral,3.0,1.0,20.0,14.0,não,97
+10:30,quinta-feira,Pediatra,7.0,3.0,,3.0,não,174
+10:45,segunda-feira,Pediatra,6.0,0.0,,8.0,não,164
+11:15,segunda-feira,Clínico Geral,6.0,1.0,20.0,9.0,não,140
+11:15,quinta-feira,Clínico Geral,12.0,0.0,20.0,16.0,não,271
+11:45,sexta-feira,Clínico Geral,6.0,2.0,20.0,1.0,não,108
+13:00,quarta-feira,Ginecologista,,1.0,30.0,13.0,não,226
+13:00,terça-feira,Pediatra,5.0,1.0,25.0,7.0,não,122
+13:00,sexta-feira,Clínico Geral,1.0,0.0,20.0,8.0,,32
+13:15,sexta-feira,Clínico Geral,,0.0,20.0,8.0,não,149
+13:15,quarta-feira,Cardiologista,4.0,1.0,40.0,15.0,não,193
+13:15,quarta-feira,Clínico Geral,4.0,,20.0,,não,76
+13:15,quinta-feira,Pediatra,9.0,0.0,25.0,9.0,não,244
+13:15,sexta-feira,Cardiologista,,2.0,40.0,29.0,não,317
+13:15,quinta-feira,Clínico Geral,7.0,2.0,20.0,10.0,não,144
+13:30,quarta-feira,Dermatologista,,1.0,20.0,9.0,não,104
+13:30,quinta-feira,Pediatra,1.0,2.0,25.0,17.0,não,53
+13:45,segunda-feira,Pediatra,1.0,0.0,25.0,16.0,não,53
+13:45,terça-feira,Nutricionista,4.0,0.0,35.0,9.0,não,123
+13:45,segunda-feira,Neurologista,9.0,,45.0,,não,420
+13:45,quinta-feira,Ginecologista,5.0,,30.0,4.0,não,171
+14:00,sexta-feira,Clínico Geral,,4.0,20.0,2.0,sim,349
+14:15,segunda-feira,Neurologista,17.0,2.0,45.0,17.0,sim,755
+14:15,quarta-feira,Ginecologista,6.0,2.0,30.0,3.0,sim,170
+14:15,sexta-feira,Psicólogo,1.0,,50.0,6.0,sim,69
+14:15,terça-feira,Ortopedista,24.0,4.0,35.0,8.0,sim,866
+14:15,segunda-feira,Clínico Geral,7.0,0.0,20.0,15.0,sim,171
+14:30,quinta-feira,Pediatra,12.0,1.0,25.0,12.0,,308
+14:30,segunda-feira,Psicólogo,12.0,1.0,50.0,8.0,sim,671
+14:30,quarta-feira,Ortopedista,15.0,0.0,35.0,11.0,sim,555
+14:45,terça-feira,Cardiologista,16.0,0.0,40.0,18.0,sim,685
+14:45,quarta-feira,Ginecologista,14.0,0.0,30.0,6.0,sim,444
+14:45,quarta-feira,Ortopedista,13.0,0.0,35.0,7.0,sim,458
+14:45,segunda-feira,Ortopedista,13.0,2.0,35.0,,sim,461
+15:00,sexta-feira,Clínico Geral,10.0,1.0,20.0,5.0,sim,203
+15:15,quarta-feira,Psicólogo,13.0,0.0,50.0,9.0,sim,654
+15:30,quinta-feira,Pediatra,15.0,2.0,25.0,7.0,sim,377
+15:45,quarta-feira,Psicólogo,13.0,1.0,50.0,0.0,,677
+16:00,segunda-feira,Neurologista,6.0,1.0,45.0,31.0,,325
+16:15,segunda-feira,Clínico Geral,2.0,3.0,20.0,13.0,não,64
+16:30,segunda-feira,Dermatologista,6.0,3.0,20.0,11.0,não,150
+16:45,segunda-feira,Pediatra,2.0,1.0,25.0,13.0,não,65
+17:00,terça-feira,Ginecologista,7.0,2.0,30.0,13.0,não,201
+17:00,quinta-feira,Oftalmologista,4.0,1.0,25.0,11.0,não,81
+17:00,quarta-feira,Psicólogo,8.0,2.0,50.0,,não,404
+17:15,quinta-feira,Cardiologista,3.0,,,19.0,não,124
+17:15,terça-feira,Pediatra,5.0,3.0,25.0,0.0,não,130
+17:15,terça-feira,Ginecologista,3.0,0.0,30.0,0.0,não,100
+17:30,terça-feira,Clínico Geral,5.0,1.0,20.0,3.0,não,129
+17:30,terça-feira,Ginecologista,7.0,0.0,,12.0,não,203
+17:45,sexta-feira,Neurologista,,1.0,45.0,12.0,não,261
+18:00,quarta-feira,Ortopedista,6.0,,35.0,0.0,não,214
+18:00,quarta-feira,Clínico Geral,6.0,0.0,20.0,8.0,não,118
+18:15,sexta-feira,Ortopedista,7.0,1.0,35.0,7.0,não,241
+18:15,,Clínico Geral,7.0,1.0,20.0,11.0,não,167
+18:30,quinta-feira,Dermatologista,,2.0,20.0,,não,180
+18:30,terça-feira,Clínico Geral,4.0,3.0,20.0,18.0,não,108
+18:30,terça-feira,Clínico Geral,10.0,0.0,20.0,12.0,não,215
+19:00,quarta-feira,Clínico Geral,5.0,2.0,,12.0,não,108
+19:15,sexta-feira,Cardiologista,7.0,1.0,40.0,17.0,não,303
+19:30,quinta-feira,Pediatra,3.0,,25.0,18.0,não,68
+20:00,segunda-feira,Pediatra,4.0,1.0,25.0,9.0,não,115
+20:00,terça-feira,Cardiologista,4.0,2.0,40.0,,não,191
+20:15,segunda-feira,Psicólogo,4.0,1.0,50.0,4.0,não,210
+,sexta-feira,Clínico Geral,2.0,1.0,20.0,11.0,não,45
+,segunda-feira,Ginecologista,,2.0,30.0,10.0,sim,384
+,quinta-feira,Ginecologista,4.0,0.0,,14.0,não,127
