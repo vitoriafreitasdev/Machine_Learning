@@ -1,0 +1,526 @@
+idade,consulta,distacia_local_de_partida_e_consultorio_km,tipo_de_transporte,dia_semana,horario_da_consulta,horario_pico,PcD,histórico_de_atrasos
+73,Clínico Geral,52.83,carro,segunda-feira,10:15,não,não,elevado
+73,Pediatra,20.24,onibus,segunda-feira,09:15,sim,sim,medio
+44,Clínico Geral,30.85,trem,quinta-feira,14:45,sim,sim,elevado
+57,Pediatra,50.95,onibus,sexta-feira,17:45,não,não,elevado
+19,Dermatologista,56.27,carro,segunda-feira,10:45,não,não,medio
+75,Cardiologista,25.71,trem,quinta-feira,08:15,sim,não,medio
+49,Psicólogo,1.00,onibus,sexta-feira,15:15,sim,não,baixo
+64,Cardiologista,1.94,carro,quarta-feira,14:00,sim,não,medio
+73,Oftalmologista,7.03,trem,terça-feira,14:00,sim,não,medio
+36,Cardiologista,57.18,bicleta,segunda-feira,10:45,não,não,baixo
+71,Oftalmologista,34.60,onibus,quinta-feira,13:00,não,sim,elevado
+75,Ginecologista,24.68,trem,terça-feira,14:00,sim,não,elevado
+86,Ginecologista,41.17,bicleta,quinta-feira,19:30,não,sim,elevado
+81,Clínico Geral,13.30,onibus,segunda-feira,16:30,não,não,elevado
+31,Oftalmologista,5.30,caminhada,quarta-feira,18:30,não,não,baixo
+47,Pediatra,8.00,carro,terça-feira,08:00,sim,não,baixo
+59,Pediatra,8.00,moto,terça-feira,11:30,não,não,baixo
+20,Oftalmologista,32.58,trem,quarta-feira,15:45,sim,não,elevado
+55,Clínico Geral,20.24,carro,quinta-feira,10:00,não,não,medio
+82,Clínico Geral,43.19,carro,quinta-feira,08:00,sim,não,medio
+82,Dermatologista,36.37,moto,quinta-feira,08:30,sim,sim,elevado
+30,Neurologista,14.20,bicleta,segunda-feira,13:00,não,sim,elevado
+81,Ginecologista,15.44,onibus,segunda-feira,09:00,sim,não,elevado
+20,Pediatra,46.74,trem,quinta-feira,14:00,sim,não,elevado
+37,Ortopedista,5.69,onibus,segunda-feira,14:45,sim,não,baixo
+81,Dermatologista,16.69,trem,segunda-feira,09:30,sim,não,elevado
+35,Neurologista,44.07,moto,quinta-feira,15:30,sim,não,elevado
+86,Psicólogo,11.89,carro,quinta-feira,10:45,não,sim,elevado
+23,Clínico Geral,21.52,bicleta,terça-feira,16:30,não,não,elevado
+38,Cardiologista,11.44,trem,sexta-feira,10:15,não,não,baixo
+32,Clínico Geral,3.09,onibus,terça-feira,08:45,sim,não,medio
+81,Ortopedista,39.76,bicleta,segunda-feira,19:00,não,não,medio
+23,Clínico Geral,42.92,onibus,segunda-feira,10:15,não,não,elevado
+26,Clínico Geral,22.45,carro,quinta-feira,18:00,não,sim,baixo
+46,Psicólogo,39.68,carro,sexta-feira,19:00,não,sim,medio
+48,Ginecologista,27.99,onibus,terça-feira,13:00,não,sim,baixo
+62,Ortopedista,39.03,onibus,quinta-feira,11:30,não,não,elevado
+78,Dermatologista,4.03,moto,quarta-feira,09:15,sim,não,elevado
+82,Psicólogo,31.78,carro,terça-feira,19:15,não,não,medio
+79,Cardiologista,26.29,carro,quarta-feira,13:15,não,não,baixo
+69,Psicólogo,25.97,bicleta,terça-feira,09:45,sim,não,medio
+80,Ortopedista,27.12,carro,terça-feira,08:00,sim,não,elevado
+79,Clínico Geral,40.00,onibus,segunda-feira,10:30,não,não,elevado
+77,Dermatologista,50.00,onibus,sexta-feira,11:45,não,sim,elevado
+63,Pediatra,1.00,carro,quarta-feira,18:30,não,não,elevado
+71,Ginecologista,48.17,caminhada,segunda-feira,09:00,sim,não,medio
+46,Pediatra,51.94,carro,terça-feira,14:45,sim,não,elevado
+27,Clínico Geral,56.88,trem,segunda-feira,19:00,não,não,elevado
+37,Neurologista,10.60,trem,sexta-feira,10:15,não,não,baixo
+33,Psicólogo,49.28,trem,terça-feira,19:30,não,não,medio
+60,Pediatra,37.25,trem,terça-feira,09:30,sim,não,elevado
+41,Ortopedista,8.00,carro,quarta-feira,15:30,sim,sim,elevado
+87,Ortopedista,29.31,onibus,segunda-feira,15:00,sim,sim,medio
+57,Ginecologista,7.77,moto,terça-feira,13:45,não,não,elevado
+54,Clínico Geral,8.00,trem,sexta-feira,14:00,sim,não,elevado
+66,Neurologista,33.25,onibus,segunda-feira,16:45,não,não,elevado
+45,Dermatologista,3.21,carro,quinta-feira,08:30,sim,não,baixo
+42,Pediatra,1.49,trem,sexta-feira,09:45,sim,não,elevado
+70,Clínico Geral,34.59,trem,sexta-feira,08:00,sim,não,elevado
+50,Clínico Geral,12.83,onibus,quinta-feira,11:00,não,não,elevado
+31,Clínico Geral,1.00,carro,quarta-feira,08:45,sim,não,elevado
+51,Cardiologista,18.05,caminhada,quarta-feira,09:30,sim,não,medio
+49,Clínico Geral,9.71,carro,segunda-feira,13:00,não,não,elevado
+37,Ginecologista,24.25,carro,quarta-feira,14:30,sim,não,elevado
+38,Clínico Geral,8.15,carro,terça-feira,08:30,sim,sim,elevado
+40,Neurologista,40.74,carro,terça-feira,10:30,não,sim,elevado
+56,Clínico Geral,26.26,onibus,segunda-feira,13:30,não,não,elevado
+73,Clínico Geral,45.80,moto,quinta-feira,10:45,não,não,elevado
+69,Ortopedista,1.00,carro,segunda-feira,09:15,sim,não,elevado
+51,Clínico Geral,35.69,carro,terça-feira,15:00,sim,sim,medio
+58,Ginecologista,17.78,carro,quinta-feira,08:15,sim,não,medio
+18,Clínico Geral,48.01,onibus,quarta-feira,11:45,não,não,baixo
+88,Clínico Geral,44.41,caminhada,quinta-feira,13:00,não,sim,elevado
+58,Clínico Geral,25.03,onibus,segunda-feira,10:45,não,sim,elevado
+81,Clínico Geral,17.41,onibus,sexta-feira,14:15,sim,não,medio
+47,Clínico Geral,13.88,moto,segunda-feira,19:00,não,não,baixo
+54,Pediatra,32.02,onibus,segunda-feira,16:15,não,sim,baixo
+77,Dermatologista,31.33,carro,sexta-feira,08:45,sim,não,elevado
+68,Clínico Geral,23.08,carro,quarta-feira,17:45,não,não,elevado
+18,Clínico Geral,40.02,onibus,quarta-feira,16:45,não,não,medio
+26,Clínico Geral,13.76,onibus,terça-feira,20:00,não,não,elevado
+34,Ginecologista,16.90,carro,quarta-feira,10:00,não,não,baixo
+63,Clínico Geral,26.84,onibus,segunda-feira,15:30,sim,não,medio
+37,Clínico Geral,9.43,carro,sexta-feira,08:00,sim,não,medio
+26,Oftalmologista,9.24,carro,sexta-feira,09:30,sim,não,medio
+50,Ortopedista,22.13,moto,quinta-feira,08:45,sim,não,elevado
+67,Ginecologista,15.00,trem,sexta-feira,18:45,não,sim,elevado
+19,Clínico Geral,26.01,caminhada,terça-feira,14:30,sim,não,baixo
+52,Nutricionista,16.19,trem,quarta-feira,11:15,não,não,medio
+56,Clínico Geral,19.40,carro,segunda-feira,09:45,sim,não,medio
+38,Oftalmologista,66.30,bicleta,segunda-feira,14:30,sim,não,elevado
+50,Ginecologista,31.12,moto,terça-feira,09:45,sim,não,elevado
+46,Pediatra,48.51,trem,segunda-feira,13:15,não,não,baixo
+45,Pediatra,23.85,onibus,quinta-feira,08:15,sim,não,elevado
+69,Ortopedista,39.55,onibus,segunda-feira,15:00,sim,não,medio
+32,Cardiologista,41.17,carro,terça-feira,08:45,sim,sim,elevado
+37,Dermatologista,43.58,onibus,quinta-feira,08:45,sim,não,baixo
+39,Clínico Geral,2.44,onibus,sexta-feira,11:00,não,não,medio
+18,Clínico Geral,7.09,carro,quinta-feira,08:00,sim,não,medio
+66,Cardiologista,15.62,carro,quinta-feira,13:30,não,não,baixo
+28,Dermatologista,24.72,moto,sexta-feira,16:30,não,não,medio
+63,Cardiologista,34.18,moto,quinta-feira,09:30,sim,não,medio
+21,Pediatra,58.94,moto,sexta-feira,11:00,não,sim,elevado
+37,Nutricionista,22.31,carro,quinta-feira,09:45,sim,não,elevado
+51,Pediatra,24.14,onibus,sexta-feira,13:45,não,sim,baixo
+86,Ortopedista,53.33,onibus,sexta-feira,17:30,não,não,baixo
+37,Ginecologista,24.23,moto,sexta-feira,10:45,não,sim,baixo
+25,Ortopedista,1.00,onibus,terça-feira,09:45,sim,sim,elevado
+18,Dermatologista,17.00,trem,quinta-feira,14:00,sim,não,medio
+38,Cardiologista,36.90,caminhada,quinta-feira,11:30,não,não,medio
+69,Clínico Geral,47.82,trem,quinta-feira,10:30,não,não,elevado
+36,Pediatra,16.42,onibus,sexta-feira,15:45,sim,não,baixo
+30,Ginecologista,31.00,bicleta,quarta-feira,14:15,sim,não,medio
+32,Dermatologista,17.40,onibus,quinta-feira,16:45,não,não,elevado
+72,Pediatra,54.75,caminhada,segunda-feira,09:00,sim,sim,medio
+31,Ortopedista,40.57,onibus,segunda-feira,18:30,não,não,medio
+55,Dermatologista,45.49,onibus,sábado,16:45,não,sim,elevado
+25,Ortopedista,15.00,bicleta,sexta-feira,14:15,sim,sim,elevado
+77,Clínico Geral,37.97,bicleta,quinta-feira,16:00,não,não,elevado
+21,Ortopedista,12.16,onibus,sexta-feira,18:15,não,não,medio
+50,Clínico Geral,11.56,moto,segunda-feira,08:45,sim,não,medio
+50,Ginecologista,30.11,carro,quinta-feira,18:00,não,não,elevado
+32,Ortopedista,4.49,moto,terça-feira,13:30,não,não,medio
+38,Clínico Geral,20.13,moto,quinta-feira,09:45,sim,não,medio
+23,Pediatra,28.59,carro,segunda-feira,15:15,sim,não,medio
+34,Ortopedista,6.86,trem,quarta-feira,11:00,não,não,elevado
+76,Dermatologista,23.09,bicleta,quarta-feira,16:15,não,não,medio
+88,Ortopedista,14.74,onibus,terça-feira,11:45,não,não,elevado
+22,Oftalmologista,28.38,carro,quarta-feira,13:15,não,não,medio
+70,Ginecologista,1.00,carro,sexta-feira,09:15,sim,não,elevado
+54,Ginecologista,16.11,trem,segunda-feira,19:15,não,sim,medio
+36,Clínico Geral,36.17,trem,sexta-feira,15:00,sim,não,baixo
+59,Pediatra,12.93,caminhada,quarta-feira,18:45,não,não,baixo
+19,Ginecologista,16.79,trem,segunda-feira,15:45,sim,não,medio
+48,Ginecologista,18.69,bicleta,quinta-feira,17:30,não,não,medio
+75,Cardiologista,52.47,onibus,terça-feira,13:15,não,sim,elevado
+69,Cardiologista,23.08,onibus,segunda-feira,20:00,não,não,baixo
+33,Neurologista,33.46,onibus,terça-feira,10:30,não,sim,baixo
+27,Clínico Geral,35.67,trem,terça-feira,09:00,sim,não,elevado
+22,Pediatra,15.75,trem,sexta-feira,14:45,sim,não,elevado
+72,Ortopedista,14.79,moto,terça-feira,10:30,não,sim,baixo
+47,Clínico Geral,9.98,bicleta,segunda-feira,08:45,sim,não,elevado
+24,Clínico Geral,18.16,trem,quinta-feira,13:45,não,não,baixo
+21,Ginecologista,14.16,onibus,sexta-feira,20:45,não,não,medio
+46,Dermatologista,18.59,moto,quarta-feira,18:15,não,não,medio
+71,Ginecologista,4.19,onibus,quinta-feira,13:15,não,não,baixo
+66,Dermatologista,31.28,carro,sexta-feira,18:30,não,não,medio
+78,Oftalmologista,52.89,onibus,segunda-feira,08:45,sim,sim,baixo
+49,Clínico Geral,16.46,trem,terça-feira,11:00,não,não,elevado
+58,Clínico Geral,45.09,carro,quinta-feira,10:30,não,sim,baixo
+52,Clínico Geral,8.00,moto,quinta-feira,16:00,não,sim,elevado
+43,Ortopedista,36.37,carro,quinta-feira,18:30,não,não,elevado
+64,Clínico Geral,12.18,onibus,quarta-feira,09:30,sim,não,elevado
+75,Dermatologista,18.70,onibus,segunda-feira,08:45,sim,não,elevado
+82,Ortopedista,58.40,onibus,sexta-feira,10:00,não,sim,medio
+43,Dermatologista,33.78,trem,sexta-feira,08:30,sim,não,baixo
+76,Neurologista,40.79,trem,terça-feira,11:15,não,não,elevado
+24,Neurologista,13.23,trem,quarta-feira,18:30,não,não,elevado
+67,Ortopedista,8.00,onibus,segunda-feira,14:00,sim,sim,elevado
+68,Ortopedista,44.64,bicleta,segunda-feira,13:30,não,não,baixo
+77,Cardiologista,38.23,onibus,quarta-feira,08:30,sim,sim,elevado
+89,Ortopedista,51.69,caminhada,segunda-feira,20:45,não,não,elevado
+31,Pediatra,3.70,bicleta,terça-feira,16:45,não,não,elevado
+46,Pediatra,35.60,onibus,terça-feira,08:00,sim,sim,elevado
+49,Clínico Geral,20.05,onibus,quinta-feira,11:45,não,sim,elevado
+82,Clínico Geral,37.81,trem,sexta-feira,09:45,sim,sim,elevado
+56,Neurologista,31.32,trem,sexta-feira,13:15,não,sim,elevado
+59,Ortopedista,2.26,onibus,quarta-feira,17:00,não,não,baixo
+54,Clínico Geral,55.19,bicleta,terça-feira,08:15,sim,não,elevado
+68,Dermatologista,15.95,caminhada,segunda-feira,10:30,não,não,baixo
+26,Clínico Geral,1.00,bicleta,terça-feira,15:15,sim,não,elevado
+21,Ginecologista,10.85,onibus,segunda-feira,10:30,não,sim,medio
+22,Dermatologista,15.00,carro,terça-feira,10:30,não,não,baixo
+26,Clínico Geral,34.43,moto,quinta-feira,15:15,sim,não,elevado
+68,Psicólogo,19.92,trem,quarta-feira,14:30,sim,não,elevado
+89,Neurologista,12.37,moto,quarta-feira,10:15,não,não,medio
+36,Ortopedista,32.29,moto,quinta-feira,09:30,sim,não,elevado
+51,Ginecologista,32.47,onibus,terça-feira,09:15,sim,sim,elevado
+67,Pediatra,14.99,trem,segunda-feira,13:30,não,não,medio
+25,Ginecologista,11.36,carro,segunda-feira,09:30,sim,não,elevado
+32,Dermatologista,31.87,bicleta,segunda-feira,10:00,não,não,elevado
+44,Pediatra,21.15,carro,sexta-feira,15:45,sim,sim,elevado
+31,Ortopedista,37.76,trem,segunda-feira,13:15,não,não,elevado
+38,Clínico Geral,46.85,bicleta,quinta-feira,09:45,sim,não,elevado
+51,Oftalmologista,4.94,carro,sexta-feira,08:45,sim,não,elevado
+57,Clínico Geral,1.00,bicleta,sexta-feira,13:45,não,sim,elevado
+20,Ortopedista,26.53,onibus,sexta-feira,14:00,sim,não,medio
+39,Ginecologista,31.82,moto,segunda-feira,11:30,não,sim,elevado
+75,Clínico Geral,18.27,onibus,sexta-feira,17:00,não,sim,elevado
+24,Pediatra,29.36,trem,segunda-feira,13:15,não,não,medio
+88,Clínico Geral,8.57,onibus,quarta-feira,18:30,não,não,medio
+81,Ginecologista,19.62,trem,sábado,15:00,sim,não,elevado
+39,Clínico Geral,1.00,carro,sexta-feira,10:00,não,não,medio
+80,Dermatologista,18.19,onibus,quinta-feira,14:00,sim,não,elevado
+42,Clínico Geral,34.62,moto,terça-feira,19:15,não,não,medio
+42,Clínico Geral,35.47,caminhada,terça-feira,10:45,não,não,baixo
+31,Dermatologista,8.00,caminhada,quarta-feira,08:45,sim,não,elevado
+46,Ginecologista,1.00,onibus,terça-feira,08:30,sim,não,medio
+22,Dermatologista,10.35,onibus,segunda-feira,10:45,não,não,baixo
+32,Clínico Geral,35.08,onibus,segunda-feira,13:30,não,não,elevado
+75,Pediatra,16.41,trem,sábado,08:00,sim,não,elevado
+66,Dermatologista,29.47,onibus,quinta-feira,19:45,não,não,elevado
+23,Dermatologista,33.96,carro,quarta-feira,13:30,não,não,medio
+45,Clínico Geral,20.74,moto,quinta-feira,10:00,não,não,medio
+85,Ginecologista,31.03,moto,segunda-feira,10:00,não,não,medio
+45,Neurologista,8.00,carro,quinta-feira,08:30,sim,não,elevado
+23,Pediatra,22.54,moto,quarta-feira,16:30,não,não,baixo
+30,Pediatra,11.15,bicleta,quinta-feira,08:00,sim,sim,elevado
+69,Ortopedista,21.87,trem,quarta-feira,08:15,sim,não,medio
+77,Cardiologista,55.27,bicleta,quarta-feira,08:45,sim,não,baixo
+87,Ginecologista,10.33,moto,terça-feira,08:45,sim,não,medio
+40,Pediatra,14.89,trem,terça-feira,18:30,não,não,baixo
+65,Ortopedista,14.10,moto,quinta-feira,13:30,não,não,elevado
+69,Pediatra,1.00,trem,quinta-feira,13:45,não,sim,elevado
+65,Dermatologista,19.36,bicleta,segunda-feira,15:15,sim,não,baixo
+68,Clínico Geral,47.22,trem,quarta-feira,18:00,não,não,medio
+19,Clínico Geral,5.89,onibus,segunda-feira,15:00,sim,sim,elevado
+33,Nutricionista,23.16,moto,sexta-feira,13:45,não,sim,elevado
+61,Ginecologista,1.00,carro,sexta-feira,16:00,não,não,elevado
+64,Pediatra,14.91,onibus,segunda-feira,08:45,sim,não,elevado
+56,Pediatra,37.53,moto,segunda-feira,17:30,não,sim,elevado
+79,Ginecologista,27.93,bicleta,terça-feira,11:00,não,sim,elevado
+44,Clínico Geral,25.06,moto,quinta-feira,16:00,não,não,baixo
+57,Pediatra,44.28,moto,quarta-feira,18:45,não,não,baixo
+60,Clínico Geral,29.67,carro,terça-feira,13:30,não,não,medio
+79,Clínico Geral,2.07,bicleta,quarta-feira,15:45,sim,não,medio
+23,Ginecologista,13.10,onibus,terça-feira,08:00,sim,não,elevado
+85,Cardiologista,20.76,onibus,quarta-feira,16:15,não,não,elevado
+89,Pediatra,26.78,trem,quinta-feira,19:00,não,não,elevado
+66,Ginecologista,66.15,onibus,quarta-feira,08:45,sim,não,elevado
+21,Ortopedista,38.82,onibus,segunda-feira,08:45,sim,não,elevado
+23,Clínico Geral,15.06,moto,quarta-feira,19:30,não,não,baixo
+18,Clínico Geral,45.91,onibus,terça-feira,08:00,sim,não,medio
+69,Pediatra,50.00,caminhada,terça-feira,09:30,sim,não,elevado
+50,Ginecologista,46.45,carro,terça-feira,15:30,sim,sim,medio
+77,Neurologista,17.37,onibus,quinta-feira,17:30,não,não,medio
+50,Clínico Geral,6.52,bicleta,sábado,13:00,não,não,baixo
+24,Dermatologista,22.40,carro,terça-feira,09:30,sim,não,elevado
+35,Dermatologista,27.21,moto,terça-feira,19:30,não,não,medio
+41,Pediatra,31.80,carro,quinta-feira,09:30,sim,sim,elevado
+37,Ginecologista,27.98,bicleta,quinta-feira,16:45,não,não,baixo
+52,Ginecologista,33.83,trem,terça-feira,08:00,sim,não,elevado
+74,Clínico Geral,52.49,onibus,segunda-feira,10:00,não,não,elevado
+23,Clínico Geral,50.06,trem,quarta-feira,16:30,não,não,medio
+84,Clínico Geral,26.67,carro,quinta-feira,16:45,não,não,medio
+35,Oftalmologista,27.54,carro,segunda-feira,16:15,não,não,baixo
+23,Ginecologista,17.85,carro,terça-feira,08:00,sim,sim,elevado
+69,Neurologista,19.21,bicleta,terça-feira,10:15,não,não,baixo
+69,Clínico Geral,70.00,trem,terça-feira,13:45,não,não,baixo
+33,Neurologista,4.25,bicleta,sexta-feira,15:30,sim,não,baixo
+61,Dermatologista,53.52,moto,terça-feira,13:00,não,não,medio
+75,Clínico Geral,1.00,onibus,quinta-feira,15:15,sim,não,medio
+51,Clínico Geral,16.37,onibus,segunda-feira,13:45,não,não,medio
+76,Oftalmologista,45.04,carro,quinta-feira,10:45,não,não,elevado
+45,Clínico Geral,1.00,onibus,terça-feira,18:00,não,não,elevado
+27,Clínico Geral,8.00,onibus,segunda-feira,13:15,não,não,baixo
+31,Pediatra,38.73,moto,quinta-feira,09:15,sim,não,elevado
+49,Neurologista,1.00,onibus,quarta-feira,09:15,sim,não,medio
+25,Pediatra,6.26,trem,segunda-feira,18:45,não,não,elevado
+19,Ginecologista,23.51,bicleta,segunda-feira,15:15,sim,não,elevado
+43,Clínico Geral,14.91,moto,quinta-feira,17:45,não,não,elevado
+42,Clínico Geral,2.44,moto,quarta-feira,14:15,sim,não,baixo
+88,Pediatra,30.60,carro,quarta-feira,18:45,não,sim,elevado
+84,Dermatologista,13.21,carro,segunda-feira,14:30,sim,não,elevado
+29,Ginecologista,47.68,trem,sexta-feira,08:00,sim,sim,elevado
+74,Clínico Geral,39.89,moto,quinta-feira,13:30,não,não,medio
+70,Nutricionista,2.95,bicleta,quarta-feira,15:15,sim,não,elevado
+44,Ginecologista,9.38,carro,segunda-feira,10:15,não,não,medio
+77,Pediatra,2.85,trem,terça-feira,19:30,não,não,elevado
+85,Clínico Geral,17.45,trem,sexta-feira,09:45,sim,não,elevado
+23,Clínico Geral,20.27,trem,segunda-feira,14:45,sim,não,elevado
+45,Clínico Geral,39.81,moto,sexta-feira,09:00,sim,não,medio
+39,Neurologista,25.44,onibus,quinta-feira,08:15,sim,não,elevado
+39,Cardiologista,50.02,bicleta,sexta-feira,17:30,não,não,elevado
+40,Pediatra,2.14,carro,segunda-feira,17:15,não,não,baixo
+65,Cardiologista,29.06,carro,quarta-feira,09:30,sim,não,baixo
+42,Clínico Geral,7.12,onibus,sexta-feira,14:15,sim,não,baixo
+66,Clínico Geral,26.02,trem,terça-feira,13:30,não,não,elevado
+59,Nutricionista,18.19,moto,sexta-feira,11:15,não,não,baixo
+66,Dermatologista,27.66,moto,quinta-feira,20:15,não,não,baixo
+70,Dermatologista,37.16,moto,quinta-feira,20:45,não,não,medio
+27,Ortopedista,1.00,moto,terça-feira,17:15,não,não,elevado
+42,Neurologista,12.07,onibus,segunda-feira,14:45,sim,não,baixo
+81,Cardiologista,23.96,moto,quarta-feira,10:00,não,não,elevado
+23,Cardiologista,29.21,moto,segunda-feira,08:30,sim,sim,elevado
+34,Cardiologista,20.86,onibus,segunda-feira,16:45,não,não,medio
+27,Pediatra,14.17,onibus,terça-feira,14:15,sim,não,baixo
+64,Ginecologista,32.93,moto,segunda-feira,10:15,não,não,elevado
+73,Pediatra,20.21,carro,segunda-feira,17:15,não,não,elevado
+25,Pediatra,1.00,carro,quarta-feira,18:30,não,não,elevado
+34,Ginecologista,29.06,trem,segunda-feira,09:45,sim,não,medio
+63,Cardiologista,21.11,moto,segunda-feira,10:30,não,sim,medio
+70,Ortopedista,14.32,trem,sexta-feira,14:30,sim,não,elevado
+41,Pediatra,12.56,onibus,segunda-feira,08:15,sim,não,medio
+49,Neurologista,5.00,onibus,segunda-feira,10:15,não,sim,elevado
+44,Pediatra,42.45,bicleta,segunda-feira,11:00,não,não,elevado
+67,Pediatra,54.74,onibus,terça-feira,14:15,sim,não,elevado
+78,Ginecologista,2.14,bicleta,segunda-feira,10:30,não,não,baixo
+58,Ortopedista,15.00,moto,quarta-feira,19:00,não,não,elevado
+19,Psicólogo,1.00,carro,quinta-feira,17:00,não,sim,elevado
+72,Ortopedista,23.53,moto,segunda-feira,15:45,sim,não,medio
+82,Pediatra,34.30,trem,terça-feira,08:30,sim,não,elevado
+52,Cardiologista,9.93,moto,segunda-feira,13:15,não,não,medio
+36,Cardiologista,42.64,onibus,sábado,15:15,sim,não,elevado
+29,Neurologista,53.85,carro,quarta-feira,08:30,sim,não,baixo
+72,Pediatra,32.23,onibus,segunda-feira,14:30,sim,não,elevado
+36,Ginecologista,1.00,caminhada,quinta-feira,10:00,não,sim,elevado
+31,Pediatra,1.00,moto,segunda-feira,08:15,sim,não,elevado
+67,Pediatra,46.26,moto,segunda-feira,17:30,não,sim,elevado
+88,Pediatra,6.67,trem,sexta-feira,14:45,sim,sim,elevado
+41,Ginecologista,43.52,moto,quarta-feira,08:45,sim,não,medio
+82,Clínico Geral,42.72,trem,terça-feira,13:45,não,não,baixo
+74,Ginecologista,1.86,carro,terça-feira,11:15,não,não,elevado
+73,Clínico Geral,32.34,moto,segunda-feira,13:30,não,não,baixo
+40,Dermatologista,46.65,onibus,segunda-feira,20:30,não,sim,elevado
+49,Nutricionista,62.76,moto,quinta-feira,08:45,sim,sim,baixo
+80,Ortopedista,16.93,carro,quarta-feira,08:00,sim,não,elevado
+34,Clínico Geral,7.46,bicleta,terça-feira,19:45,não,não,medio
+66,Clínico Geral,25.10,carro,terça-feira,13:30,não,não,elevado
+44,Ginecologista,26.87,bicleta,quinta-feira,11:00,não,não,elevado
+53,Pediatra,29.32,bicleta,segunda-feira,09:30,sim,não,baixo
+69,Nutricionista,22.42,onibus,segunda-feira,13:15,não,sim,elevado
+79,Dermatologista,1.00,moto,segunda-feira,13:15,não,não,medio
+60,Ortopedista,13.99,trem,terça-feira,13:30,não,não,medio
+79,Clínico Geral,57.56,onibus,sexta-feira,09:45,sim,não,elevado
+78,Clínico Geral,31.62,moto,sexta-feira,15:45,sim,não,medio
+63,Pediatra,53.79,bicleta,terça-feira,08:15,sim,sim,baixo
+86,Dermatologista,1.00,moto,quinta-feira,13:45,não,não,elevado
+88,Pediatra,22.68,caminhada,terça-feira,13:15,não,não,elevado
+19,Dermatologista,13.22,moto,quarta-feira,14:45,sim,não,elevado
+74,Clínico Geral,29.09,carro,segunda-feira,19:30,não,não,baixo
+78,Ortopedista,9.23,carro,quarta-feira,20:15,não,não,medio
+65,Clínico Geral,16.33,moto,segunda-feira,14:00,sim,não,baixo
+66,Clínico Geral,5.50,carro,segunda-feira,14:30,sim,não,medio
+58,Clínico Geral,39.27,trem,sexta-feira,16:15,não,não,elevado
+88,Ortopedista,39.36,bicleta,terça-feira,08:15,sim,sim,medio
+60,Clínico Geral,22.28,trem,sexta-feira,14:30,sim,não,elevado
+74,Clínico Geral,32.95,onibus,quarta-feira,10:30,não,não,elevado
+77,Ortopedista,30.99,carro,quinta-feira,15:30,sim,não,elevado
+22,Cardiologista,43.35,onibus,quarta-feira,11:30,não,sim,elevado
+80,Clínico Geral,2.14,carro,terça-feira,13:00,não,não,baixo
+53,Pediatra,28.77,caminhada,quarta-feira,09:30,sim,não,elevado
+19,Ortopedista,27.33,bicleta,quarta-feira,11:15,não,não,medio
+85,Ortopedista,14.92,carro,terça-feira,09:15,sim,não,baixo
+51,Oftalmologista,23.46,trem,segunda-feira,08:00,sim,não,elevado
+40,Clínico Geral,12.42,moto,terça-feira,14:30,sim,não,baixo
+44,Pediatra,15.40,onibus,segunda-feira,09:45,sim,não,elevado
+46,Pediatra,17.78,caminhada,sexta-feira,13:15,não,não,elevado
+43,Ortopedista,1.00,onibus,quarta-feira,14:30,sim,não,medio
+78,Cardiologista,39.10,trem,quinta-feira,10:30,não,sim,elevado
+33,Cardiologista,19.37,trem,sexta-feira,18:15,não,não,baixo
+53,Pediatra,14.47,carro,segunda-feira,11:30,não,não,elevado
+60,Oftalmologista,3.63,trem,terça-feira,17:15,não,não,baixo
+27,Dermatologista,3.27,bicleta,quarta-feira,11:15,não,não,elevado
+42,Ortopedista,26.35,trem,sexta-feira,09:30,sim,não,medio
+56,Pediatra,12.60,moto,sexta-feira,14:45,sim,não,elevado
+38,Ginecologista,35.29,moto,segunda-feira,15:15,sim,sim,medio
+38,Clínico Geral,31.33,moto,quarta-feira,08:30,sim,não,medio
+74,Cardiologista,5.83,carro,quinta-feira,15:30,sim,não,baixo
+43,Cardiologista,1.00,carro,quarta-feira,15:00,sim,não,baixo
+63,Ginecologista,22.44,trem,quinta-feira,14:45,sim,não,baixo
+41,Ginecologista,11.21,carro,segunda-feira,10:00,não,não,medio
+46,Dermatologista,48.27,trem,quarta-feira,14:45,sim,não,elevado
+77,Pediatra,42.05,trem,quarta-feira,15:45,sim,sim,elevado
+70,Clínico Geral,12.17,onibus,quinta-feira,09:45,sim,não,elevado
+70,Ortopedista,41.12,trem,quinta-feira,09:15,sim,não,elevado
+71,Ortopedista,34.03,moto,terça-feira,08:30,sim,sim,elevado
+86,Neurologista,9.63,moto,terça-feira,11:00,não,não,elevado
+18,Clínico Geral,9.49,carro,quarta-feira,18:30,não,não,medio
+70,Ginecologista,8.58,bicleta,quinta-feira,11:15,não,não,medio
+86,Dermatologista,31.60,carro,sexta-feira,17:30,não,não,medio
+67,Clínico Geral,8.56,moto,terça-feira,13:45,não,não,baixo
+81,Clínico Geral,8.17,carro,quinta-feira,20:00,não,sim,elevado
+18,Ortopedista,69.51,onibus,quarta-feira,15:30,sim,sim,baixo
+26,Oftalmologista,30.34,caminhada,quinta-feira,10:30,não,sim,elevado
+66,Ginecologista,16.13,moto,quarta-feira,18:45,não,não,baixo
+62,Pediatra,25.72,moto,sexta-feira,13:45,não,não,elevado
+44,Clínico Geral,9.31,bicleta,quinta-feira,08:45,sim,sim,elevado
+58,Clínico Geral,9.56,trem,segunda-feira,08:15,sim,não,baixo
+30,Cardiologista,42.49,onibus,quarta-feira,08:30,sim,sim,elevado
+37,Clínico Geral,6.15,bicleta,sexta-feira,11:45,não,não,medio
+84,Clínico Geral,38.72,carro,quarta-feira,09:00,sim,não,medio
+52,Clínico Geral,29.64,onibus,segunda-feira,08:15,sim,não,baixo
+84,Pediatra,1.00,trem,segunda-feira,09:15,sim,sim,elevado
+26,Ginecologista,8.54,trem,terça-feira,08:45,sim,não,baixo
+24,Dermatologista,30.52,carro,sexta-feira,10:30,não,não,elevado
+81,Clínico Geral,31.89,onibus,quarta-feira,14:45,sim,não,elevado
+56,Pediatra,33.29,trem,terça-feira,16:15,não,não,elevado
+52,Neurologista,8.84,carro,segunda-feira,11:30,não,sim,medio
+72,Clínico Geral,11.04,onibus,sexta-feira,13:45,não,sim,elevado
+19,Clínico Geral,5.05,moto,quarta-feira,13:30,não,sim,baixo
+33,Ortopedista,29.03,caminhada,quinta-feira,10:45,não,não,medio
+52,Cardiologista,37.77,bicleta,quarta-feira,17:00,não,sim,medio
+19,Dermatologista,29.80,trem,quinta-feira,15:30,sim,sim,elevado
+58,Ginecologista,24.88,caminhada,quarta-feira,13:45,não,não,baixo
+60,Ortopedista,34.40,trem,quarta-feira,08:15,sim,não,medio
+38,Clínico Geral,29.40,caminhada,quinta-feira,11:45,não,não,elevado
+84,Pediatra,32.62,trem,quarta-feira,14:15,sim,não,baixo
+73,Neurologista,3.05,onibus,quarta-feira,09:30,sim,não,elevado
+72,Clínico Geral,16.54,onibus,segunda-feira,17:30,não,não,elevado
+25,Cardiologista,34.81,onibus,terça-feira,10:45,não,sim,baixo
+65,Ginecologista,10.23,moto,sexta-feira,19:00,não,não,medio
+84,Clínico Geral,1.00,carro,sexta-feira,10:45,não,não,medio
+37,Dermatologista,10.18,bicleta,quinta-feira,13:15,não,não,baixo
+79,Pediatra,4.90,carro,quinta-feira,09:30,sim,não,elevado
+23,Clínico Geral,14.24,moto,quinta-feira,10:30,não,não,elevado
+33,Ginecologista,29.32,bicleta,sábado,14:30,sim,não,elevado
+68,Cardiologista,24.74,carro,segunda-feira,18:15,não,sim,medio
+21,Pediatra,52.22,trem,segunda-feira,13:45,não,não,elevado
+83,Pediatra,20.03,onibus,sexta-feira,08:15,sim,não,elevado
+59,Dermatologista,30.02,moto,quinta-feira,11:45,não,sim,baixo
+31,Cardiologista,8.83,carro,segunda-feira,15:15,sim,não,baixo
+64,Pediatra,14.23,moto,quinta-feira,11:15,não,não,elevado
+66,Clínico Geral,42.91,bicleta,quinta-feira,08:45,sim,não,elevado
+29,Clínico Geral,48.86,onibus,terça-feira,13:45,não,não,elevado
+33,Pediatra,23.24,onibus,segunda-feira,16:30,não,não,elevado
+22,Clínico Geral,1.50,trem,sexta-feira,08:30,sim,não,baixo
+45,Psicólogo,15.20,moto,sexta-feira,16:00,não,sim,baixo
+46,Dermatologista,3.16,bicleta,quinta-feira,19:45,não,não,medio
+76,Clínico Geral,16.38,bicleta,sexta-feira,13:15,não,não,elevado
+46,Clínico Geral,1.38,moto,quarta-feira,16:45,não,não,baixo
+61,Clínico Geral,19.34,trem,segunda-feira,13:30,não,sim,medio
+48,Ortopedista,2.06,onibus,segunda-feira,14:15,sim,sim,elevado
+19,Clínico Geral,41.70,onibus,quarta-feira,19:00,não,não,elevado
+80,Nutricionista,56.63,trem,segunda-feira,17:15,não,não,elevado
+49,Clínico Geral,52.47,onibus,quinta-feira,18:45,não,não,elevado
+85,Oftalmologista,23.36,onibus,quarta-feira,13:30,não,não,elevado
+84,Clínico Geral,30.77,carro,quarta-feira,15:00,sim,não,elevado
+18,Ortopedista,5.09,moto,quarta-feira,14:30,sim,sim,baixo
+22,Clínico Geral,10.90,bicleta,quinta-feira,19:45,não,não,elevado
+76,Cardiologista,30.10,moto,quinta-feira,14:15,sim,sim,elevado
+20,Ginecologista,8.00,carro,quinta-feira,16:15,não,não,baixo
+54,Pediatra,38.74,moto,quinta-feira,15:00,sim,sim,baixo
+67,Ortopedista,1.00,bicleta,segunda-feira,13:30,não,não,elevado
+81,Neurologista,50.00,carro,segunda-feira,19:15,não,sim,baixo
+18,Neurologista,12.45,onibus,quinta-feira,10:30,não,não,elevado
+75,Ginecologista,20.08,moto,sexta-feira,14:15,sim,não,elevado
+30,Clínico Geral,17.78,trem,quinta-feira,11:15,não,sim,baixo
+40,Cardiologista,27.62,onibus,segunda-feira,13:00,não,não,medio
+71,Pediatra,45.34,onibus,quinta-feira,19:45,não,não,elevado
+27,Dermatologista,5.87,carro,quarta-feira,13:45,não,não,baixo
+85,Clínico Geral,6.76,onibus,sexta-feira,15:45,sim,não,baixo
+45,Pediatra,54.30,trem,quarta-feira,18:15,não,não,elevado
+39,Ortopedista,38.84,carro,sábado,10:00,não,sim,baixo
+23,Dermatologista,15.92,trem,sexta-feira,11:00,não,sim,elevado
+76,Clínico Geral,39.27,onibus,quinta-feira,08:30,sim,não,elevado
+84,Neurologista,45.48,carro,quarta-feira,09:15,sim,não,elevado
+55,Clínico Geral,36.11,bicleta,terça-feira,14:45,sim,não,elevado
+46,Ortopedista,16.96,bicleta,terça-feira,14:45,sim,não,baixo
+27,Ginecologista,22.26,onibus,terça-feira,17:00,não,não,elevado
+53,Clínico Geral,58.21,trem,segunda-feira,11:00,não,não,medio
+18,Dermatologista,31.84,bicleta,terça-feira,15:15,sim,não,baixo
+36,Pediatra,6.54,onibus,quinta-feira,08:00,sim,não,elevado
+84,Ortopedista,47.83,moto,segunda-feira,15:00,sim,sim,elevado
+35,Ortopedista,7.78,onibus,segunda-feira,14:00,sim,não,elevado
+28,Clínico Geral,23.39,carro,terça-feira,11:15,não,sim,elevado
+58,Clínico Geral,14.63,moto,quarta-feira,08:00,sim,não,medio
+84,Clínico Geral,24.08,moto,quinta-feira,10:45,não,sim,elevado
+52,Cardiologista,25.57,caminhada,quarta-feira,13:00,não,não,baixo
+84,Dermatologista,8.00,carro,segunda-feira,14:45,sim,não,elevado
+26,Oftalmologista,15.20,carro,quarta-feira,15:00,sim,não,baixo
+43,Ginecologista,43.27,moto,terça-feira,15:15,sim,não,baixo
+49,Clínico Geral,29.11,moto,quarta-feira,09:00,sim,não,elevado
+41,Ortopedista,38.25,onibus,terça-feira,08:00,sim,sim,elevado
+18,Cardiologista,38.27,carro,quarta-feira,17:30,não,sim,elevado
+78,Dermatologista,36.02,onibus,sexta-feira,17:15,não,não,elevado
+71,Clínico Geral,44.22,caminhada,terça-feira,11:15,não,sim,baixo
+47,Psicólogo,28.06,carro,quarta-feira,18:45,não,não,baixo
+76,Ortopedista,45.18,moto,terça-feira,09:15,sim,não,elevado
+27,Ginecologista,15.41,onibus,terça-feira,08:00,sim,não,elevado
+55,Clínico Geral,21.05,bicleta,terça-feira,11:15,não,não,elevado
+46,Psicólogo,5.32,trem,segunda-feira,13:15,não,não,elevado
+38,Neurologista,30.36,carro,sexta-feira,19:30,não,não,elevado
+68,Clínico Geral,40.77,trem,segunda-feira,18:30,não,não,elevado
+35,Psicólogo,21.93,onibus,segunda-feira,17:45,não,não,medio
+76,Psicólogo,38.93,trem,quarta-feira,11:00,não,sim,elevado
+81,Ginecologista,37.12,moto,quinta-feira,18:45,não,sim,elevado
+58,Clínico Geral,29.87,trem,quarta-feira,14:15,sim,sim,medio
+85,Cardiologista,11.20,carro,segunda-feira,15:30,sim,não,elevado
+42,Clínico Geral,6.36,carro,quinta-feira,16:15,não,não,baixo
+60,Clínico Geral,11.16,moto,terça-feira,14:30,sim,não,medio
+49,Clínico Geral,36.23,trem,terça-feira,11:30,não,não,elevado
+41,Oftalmologista,4.14,onibus,segunda-feira,15:15,sim,não,baixo
+39,Neurologista,15.67,caminhada,terça-feira,15:45,sim,não,elevado
+33,Neurologista,36.21,onibus,segunda-feira,09:00,sim,não,elevado
+81,Dermatologista,8.00,trem,segunda-feira,10:15,não,não,baixo
+78,Clínico Geral,24.77,carro,terça-feira,10:15,não,não,elevado
+54,Dermatologista,6.58,trem,terça-feira,13:45,não,não,elevado
+26,Clínico Geral,23.88,carro,sexta-feira,08:00,sim,não,elevado
+68,Clínico Geral,15.76,carro,quarta-feira,14:30,sim,não,elevado
+20,Clínico Geral,1.00,bicleta,segunda-feira,14:00,sim,não,baixo
+52,Cardiologista,35.45,bicleta,segunda-feira,17:45,não,não,elevado
+23,Nutricionista,19.48,carro,sexta-feira,11:15,não,não,medio
+72,Cardiologista,47.16,moto,quinta-feira,17:45,não,não,baixo
+29,Neurologista,18.69,moto,quinta-feira,08:00,sim,não,elevado
+58,Clínico Geral,8.04,onibus,quarta-feira,15:45,sim,não,medio
+82,Clínico Geral,45.49,trem,segunda-feira,14:00,sim,sim,medio
+66,Pediatra,30.75,carro,quarta-feira,08:30,sim,não,medio
+24,Clínico Geral,32.14,moto,segunda-feira,13:30,não,não,medio
+60,Clínico Geral,19.98,caminhada,quinta-feira,10:45,não,sim,elevado
+55,Pediatra,3.61,onibus,quarta-feira,16:15,não,sim,medio
+60,Ortopedista,45.75,bicleta,quarta-feira,14:15,sim,não,elevado
+56,Pediatra,20.67,onibus,segunda-feira,10:15,não,não,baixo
+34,Ginecologista,1.00,trem,quarta-feira,10:15,não,não,baixo
+45,Clínico Geral,23.11,trem,quinta-feira,17:45,não,não,elevado
+62,Ginecologista,17.00,carro,quinta-feira,09:45,sim,não,elevado
+30,Ginecologista,26.72,onibus,terça-feira,15:15,sim,não,elevado
+42,Clínico Geral,4.03,moto,segunda-feira,16:30,não,não,medio
+84,Clínico Geral,54.01,trem,quarta-feira,08:30,sim,não,elevado
+44,Pediatra,17.86,carro,terça-feira,09:30,sim,não,elevado
+83,Ginecologista,10.47,carro,terça-feira,11:00,não,sim,medio
+32,Cardiologista,2.62,trem,sexta-feira,09:45,sim,não,baixo
+76,Ginecologista,22.88,carro,sexta-feira,11:00,não,não,elevado
+55,Clínico Geral,16.99,carro,segunda-feira,09:15,sim,não,elevado
+88,Clínico Geral,33.61,bicleta,quinta-feira,09:15,sim,sim,elevado
+68,Ginecologista,8.00,trem,terça-feira,18:00,não,não,baixo
+88,Clínico Geral,28.24,carro,terça-feira,13:30,não,sim,elevado
+35,Ortopedista,49.47,onibus,terça-feira,10:15,não,não,elevado
+19,Clínico Geral,48.40,onibus,segunda-feira,18:30,não,não,medio
+20,Pediatra,9.57,bicleta,terça-feira,14:15,sim,não,medio
+48,Ginecologista,39.30,trem,sexta-feira,08:45,sim,sim,elevado
+76,Oftalmologista,9.32,onibus,sexta-feira,19:30,não,não,elevado
+57,Clínico Geral,1.00,onibus,sexta-feira,15:00,sim,não,medio
+23,Pediatra,30.96,moto,sexta-feira,09:45,sim,não,elevado
+30,Dermatologista,18.64,onibus,terça-feira,09:45,sim,não,elevado
